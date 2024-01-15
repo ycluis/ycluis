@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
-Markdown     8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.15 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+HTML         53 mins         ████████████████░░░░░░░░░   63.83 %
+Markdown     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
