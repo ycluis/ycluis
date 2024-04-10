@@ -13,5 +13,5 @@ Other        2 hrs 28 mins   ██▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
+<i>❝The original name of Windows was Interface Manager.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
