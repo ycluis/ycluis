@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Python       15 hrs 48 mins  ████████████████████░░░░░   79.70 %
-Other        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Python       16 hrs 34 mins  █████████████████████▓░░░   87.15 %
+SQL          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
