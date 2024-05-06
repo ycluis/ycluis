@@ -4,12 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2024 - To: 04 May 2024
+From: 28 April 2024 - To: 05 May 2024
 
-Python       13 hrs 49 mins  █████████████████░░░░░░░░   67.83 %
-JavaScript   2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-YAML         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Other        1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Python       13 hrs 6 mins   ██████████████████▒░░░░░░   72.96 %
+Other        1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
 ```
 
 <!--END_SECTION:waka-->
