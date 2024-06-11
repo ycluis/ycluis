@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2024 - To: 09 June 2024
+From: 03 June 2024 - To: 10 June 2024
 
-Python       7 hrs 22 mins   ██████████████████▒░░░░░░   73.29 %
-Other        1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Python       8 hrs 45 mins   ██████████████████▓░░░░░░   74.05 %
+Other        1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
 ```
 
 <!--END_SECTION:waka-->
