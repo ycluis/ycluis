@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-Python       16 hrs 23 mins  ████████████████▒░░░░░░░░   65.76 %
-TypeScript   5 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-Other        1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Python       12 hrs 29 mins  █████████████▓░░░░░░░░░░░   55.06 %
+TypeScript   7 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   32.78 %
+Other        1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
 <!--END_SECTION:waka-->
