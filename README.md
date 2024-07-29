@@ -14,5 +14,5 @@ Other        1 hr 27 mins    █▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
+<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
