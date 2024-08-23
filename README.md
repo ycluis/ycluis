@@ -4,13 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-TypeScript   9 hrs 45 mins   ████████████████████░░░░░   80.15 %
-Python       1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Bash         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Markdown     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript   10 hrs 8 mins   █████████████████▒░░░░░░░   69.10 %
+Python       2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Other        33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
