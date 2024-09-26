@@ -4,12 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-Python       16 hrs 31 mins  ████████████████████▓░░░░   82.73 %
-CSV          1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-TypeScript   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Python       18 hrs 5 mins   █████████████████████▒░░░   85.49 %
+CSV          1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Other        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
