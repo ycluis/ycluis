@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2024 - To: 01 October 2024
+From: 25 September 2024 - To: 02 October 2024
 
-Python       10 hrs 6 mins   ███████████████████▓░░░░░   78.85 %
-Other        51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Python       10 hrs 38 mins  ██████████████████▒░░░░░░   72.97 %
+TypeScript   1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
