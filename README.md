@@ -4,13 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2024 - To: 15 October 2024
+From: 09 October 2024 - To: 16 October 2024
 
-Python       6 hrs 24 mins   ███████████████████░░░░░░   75.78 %
-TypeScript   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-Bash         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-SQL          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python        3 hrs 44 mins   ██████████████▒░░░░░░░░░░   57.03 %
+TypeScript    1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+Other         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 ```
 
 <!--END_SECTION:waka-->
