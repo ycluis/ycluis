@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Python       6 hrs 53 mins   ██████████████░░░░░░░░░░░   55.47 %
 TypeScript   1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
