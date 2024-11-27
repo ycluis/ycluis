@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-TypeScript   10 hrs          █████████████▓░░░░░░░░░░░   54.20 %
-Python       6 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
-Bash         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-CSV          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+TypeScript   9 hrs 43 mins   █████████████░░░░░░░░░░░░   51.46 %
+Python       7 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.42 %
+Bash         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+CSV          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
