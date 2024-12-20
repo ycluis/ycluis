@@ -4,10 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2024 - To: 18 December 2024
+From: 12 December 2024 - To: 19 December 2024
 
-TypeScript   3 hrs 59 mins   █████████████████████▓░░░   86.39 %
-Other        15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+TypeScript   5 hrs 28 mins   █████████████████▒░░░░░░░   69.41 %
+Go           39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Bash         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Terraform    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
