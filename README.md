@@ -4,13 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-Python       21 hrs 15 mins  █████████████████████░░░░   83.46 %
-Bash         1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-TypeScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Terraform    26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Docker       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Python       19 hrs 45 mins  ███████████████████░░░░░░   76.31 %
+Bash         2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+TypeScript   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Other        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
