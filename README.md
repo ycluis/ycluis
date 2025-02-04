@@ -4,9 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-No activity tracked
+Python   3 hrs 42 mins   ██████████████████████▒░░   89.51 %
+Bash     25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
