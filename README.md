@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2025 - To: 09 March 2025
+From: 03 March 2025 - To: 10 March 2025
 
-Python            3 hrs 1 min     ████████████████░░░░░░░░░   64.12 %
-SQL               19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Other             18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+TypeScript        4 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   39.37 %
+Python            3 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.09 %
+Other             1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
 ```
 
 <!--END_SECTION:waka-->
