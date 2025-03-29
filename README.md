@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2025 - To: 27 March 2025
+From: 21 March 2025 - To: 28 March 2025
 
-Astro        8 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.14 %
-SQL          3 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-TypeScript   2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Other        2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Astro        8 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.65 %
+SQL          3 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+TypeScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Other        2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
 ```
 
 <!--END_SECTION:waka-->
