@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-Python                     4 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   38.62 %
-Astro                      2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-TypeScript                 2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-Bash                       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Terraform                  21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Python                     8 hrs 25 mins   ████████████░░░░░░░░░░░░░   48.65 %
+Astro                      2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+TypeScript                 2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+Bash                       1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Terraform                  29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
