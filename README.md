@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2025 - To: 15 April 2025
+From: 09 April 2025 - To: 16 April 2025
 
-TypeScript    12 hrs 20 mins  ████████████▓░░░░░░░░░░░░   50.13 %
-Astro         5 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-Other         2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+TypeScript   8 hrs 47 mins   ██████████▒░░░░░░░░░░░░░░   41.44 %
+Astro        3 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Other        2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
 ```
 
 <!--END_SECTION:waka-->
