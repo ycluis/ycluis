@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2025 - To: 26 May 2025
+From: 20 May 2025 - To: 27 May 2025
 
-Python        6 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   39.45 %
-TypeScript    3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-Other         2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Python       5 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   35.07 %
+Other        3 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
 ```
 
 <!--END_SECTION:waka-->
