@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Python       5 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   35.07 %
-Other        3 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
+Python       5 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   40.58 %
+Other        3 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 %
 ```
 
 <!--END_SECTION:waka-->
