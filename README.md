@@ -4,13 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-TypeScript   10 hrs 3 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
-Python       6 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   31.09 %
-Docker       1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Bash         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Astro        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Python       9 hrs 37 mins   ████████████░░░░░░░░░░░░░   48.41 %
+TypeScript   6 hrs 52 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
+Docker       1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
