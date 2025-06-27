@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Python        8 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.23 %
-TypeScript    5 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-Astro         1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Bash          48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Python        8 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.90 %
+TypeScript    5 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 %
+Astro         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Bash          44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
