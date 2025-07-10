@@ -4,12 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2025 - To: 08 July 2025
+From: 02 July 2025 - To: 09 July 2025
 
-Python       3 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.43 %
-TypeScript   3 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-Bash         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Other        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Python       3 hrs           ██████████░░░░░░░░░░░░░░░   40.03 %
+TypeScript   2 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   36.00 %
+Other        28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
