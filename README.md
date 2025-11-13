@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2025 - To: 11 November 2025
+From: 05 November 2025 - To: 12 November 2025
 
-TypeScript   3 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   32.66 %
-Other        2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+TypeScript   3 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+Other        2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
 ```
 
 <!--END_SECTION:waka-->
