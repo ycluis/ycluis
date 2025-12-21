@@ -13,5 +13,5 @@ Other        2 hrs 2 mins    ████░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<i>❝“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
