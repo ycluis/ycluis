@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-TypeScript   2 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   47.04 %
-Python       2 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   35.29 %
-TSConfig     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-CSV          19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Text         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+TypeScript   2 hrs 57 mins   ████████████████▓░░░░░░░░   66.08 %
+Python       43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+TSConfig     26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+CSV          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
