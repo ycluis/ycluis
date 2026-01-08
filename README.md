@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Bash         1 hr 3 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-Python       1 hr            ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-TypeScript   43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-Other        23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+TypeScript   2 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.80 %
+Bash         1 hr 44 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+Python       1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Other        47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
 ```
 
 <!--END_SECTION:waka-->
