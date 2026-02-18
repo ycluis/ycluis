@@ -4,12 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-TypeScript   1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-JavaScript   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Bash         38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Terraform    35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+JavaScript   35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Other        26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
