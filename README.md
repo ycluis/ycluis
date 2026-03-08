@@ -15,5 +15,5 @@ Docker       56 mins               █▓░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
+<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
