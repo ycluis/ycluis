@@ -12,5 +12,5 @@ Other             4 hrs 8 mins          ████████▓░░░░�
 <!--END_SECTION:waka-->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
+<i>❝“There’s no obfuscated Perl contest because it’s pointless.”— Jeff Polk   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
