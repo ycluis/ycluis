@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-TypeScript   4 hrs 27 mins         ████████▒░░░░░░░░░░░░░░░░   32.82 %
-Python       3 hrs 52 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 %
-Other        1 hr 36 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+TypeScript   2 hrs 55 mins         ███████▓░░░░░░░░░░░░░░░░░   31.02 %
+Python       1 hr 38 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Other        1 hr 18 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
 ```
 
 <!--END_SECTION:waka-->
