@@ -4,12 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2026 - To: 11 May 2026
+From: 06 May 2026 - To: 13 May 2026
 
-TypeScript   10 hrs 5 mins         ██████████████░░░░░░░░░░░   56.55 %
-Markdown     2 hrs 22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Python       1 hr 48 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Other        1 hr 15 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+TypeScript   7 hrs 51 mins         ███████████▓░░░░░░░░░░░░░   46.70 %
+Markdown     4 hrs 26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
+Other        1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 ```
 
 <!--END_SECTION:waka-->
