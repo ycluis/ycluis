@@ -4,13 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
-TypeScript   5 hrs 23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-JavaScript   2 hrs 50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Markdown     2 hrs 8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Docker       1 hr 51 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-Java         1 hr 8 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+TypeScript   3 hrs 12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+JavaScript   2 hrs 16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Docker       1 hr 53 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Markdown     1 hr 42 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
 ```
 
 <!--END_SECTION:waka-->
