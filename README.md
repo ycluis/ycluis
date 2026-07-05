@@ -15,5 +15,5 @@ Java         1 hr 8 mins           ██▓░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to statista, by 2023, over 50 billion devices will be connected on the internet.❞</i>
+<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
