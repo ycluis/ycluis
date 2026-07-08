@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2026 - To: 06 July 2026
+From: 30 June 2026 - To: 07 July 2026
 
-Markdown     1 hr 41 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Other        1 hr 23 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Markdown     1 hr 21 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+Docker       1 hr 4 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Other        1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
 ```
 
 <!--END_SECTION:waka-->
