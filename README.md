@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2026 - To: 23 August 2026
+From: 17 August 2026 - To: 24 August 2026
 
-Java         7 hrs 7 mins          ████████████▓░░░░░░░░░░░░   50.30 %
-Markdown     2 hrs 49 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-TypeScript   2 hrs 20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-JavaScript   1 hr 12 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Scala        10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Java         4 hrs 53 mins         ██████████████░░░░░░░░░░░   56.60 %
+Markdown     2 hrs 9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
+TypeScript   1 hr 3 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+JavaScript   16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Python       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
