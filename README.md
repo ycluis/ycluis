@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2026 - To: 30 August 2026
+From: 24 August 2026 - To: 31 August 2026
 
-JavaScript   7 hrs 24 mins         █████████████████▒░░░░░░░   69.47 %
-Markdown     1 hr 31 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Java         1 hr                  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Other        14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JavaScript   5 hrs 59 mins         ██████████████████▓░░░░░░   75.25 %
+Markdown     1 hr 1 min            ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Java         14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other        14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
