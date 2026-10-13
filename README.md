@@ -4,9 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2026 - To: 11 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
-Other       6 hrs 7 mins          █████████████████████▓░░░   86.13 %
+Other       3 hrs 32 mins         ███████████████████▓░░░░░   78.52 %
 ```
 
 <!--END_SECTION:waka-->
