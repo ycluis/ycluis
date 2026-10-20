@@ -12,5 +12,5 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”❞</i>
+<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
