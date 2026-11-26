@@ -4,10 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2026 - To: 24 November 2026
+From: 18 November 2026 - To: 25 November 2026
 
-TypeScript   3 hrs 3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-Other        2 hrs 38 mins         █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+TypeScript   4 hrs 51 mins         ████████▒░░░░░░░░░░░░░░░░   33.97 %
+Markdown     2 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+JavaScript   1 hr 58 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Other        1 hr 44 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
 ```
 
 <!--END_SECTION:waka-->
